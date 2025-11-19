@@ -70,7 +70,7 @@ public class LoanCalc {
             fL = fMid;
         } else {
             h = mid;
-            fH = fMid;
+            fH= fMid;
         }
 
         iterationCounter++;
